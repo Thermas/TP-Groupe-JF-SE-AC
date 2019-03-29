@@ -1,2 +1,3 @@
 # TP-Groupe-JF-SE-AC
-TP Statistique
+TP de Statistique que l'on aime beaucoup
+
